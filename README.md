@@ -5,6 +5,8 @@
 
 功能
 
+https://github.com/huohu1007/Video_Technic_master/Screenshots/1.gif
+
 完整演示
 
 
