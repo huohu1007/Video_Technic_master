@@ -5,7 +5,7 @@
 
 功能
 
-https://github.com/huohu1007/Video_Technic_master/raw/master/Screenshots/1.gif
+![Image text](https://github.com/huohu1007/Video_Technic_master/raw/master/Screenshots/1.gif)
 
 完整演示
 
