@@ -15,18 +15,22 @@
 
 
 ![Image text](https://github.com/huohu1007/Video_Technic_master/raw/master/Screenshots/2.jpg)
+
 2.小窗播放：当用户正在观看的视频没有播完，用户又滑动到其他页面则视频继续在小窗播放，播放完成以后小窗自动消失，并提示用户播放完毕。
 
 
 ![Image text](https://github.com/huohu1007/Video_Technic_master/raw/master/Screenshots/3.jpg)
+
 播放完毕提示
 
 
 ![Image text](https://github.com/huohu1007/Video_Technic_master/raw/master/Screenshots/4.jpg)
+
 3.列表播放：支持在列表中播放
 
 
 ![Image text](https://github.com/huohu1007/Video_Technic_master/raw/master/Screenshots/5.jpg)
+
 4.跨界面播放，在列表中播放时，点击列表进入详情页。或在小窗播放时点击小窗进入详情页。视频将继续播放，不会重头开始。
 
 实现
