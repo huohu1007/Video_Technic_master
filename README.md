@@ -8,8 +8,6 @@
 完整演示
 
 
-http://upload-images.jianshu.io/upload_images/2808681-2087e57403130c6c.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50
-
 
 基本功能
 
